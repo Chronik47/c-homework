@@ -8,6 +8,8 @@
 
 // 23432 -> да
 
+// 1. Вариант
+
 // Console.WriteLine("Введите пятизначное число: ");
 // int n = Convert.ToInt32(Console.ReadLine());
 // int x1 = n / 10000;
@@ -18,6 +20,9 @@
 //     Console.WriteLine("palindrome");
 // else
 //     Console.WriteLine("это не palindrome");
+
+
+// 2. Вариант
 
 // Console.Clear();
 // Console.WriteLine("Введите пятизначное число или слово: ");
