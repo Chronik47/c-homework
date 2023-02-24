@@ -52,8 +52,10 @@
 // Console.Write("Введите число: ");
 // int num = Convert.ToInt32(Console.ReadLine());
 
-// int result = SumDigitsNumber(num);
-// Console.WriteLine($"Сумма цифр в числе {num} = {result}");
+// // int result = SumDigitsNumber(num);
+// // Console.WriteLine($"Сумма цифр в числе {num} = {result} ");              //Ввывод можно сделать двумя способами 55 + 56 строки,
+
+// Console.WriteLine($"Сумма цифр в числе {num} = {SumDigitsNumber(num) }");   //или 58 строка. Это одно и тоже.
 
 
 
