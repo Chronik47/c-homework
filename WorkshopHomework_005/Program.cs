@@ -105,7 +105,7 @@
 // void PrintArray(double[] inArray)
 //     {
 //         for ( int i = 0; i < inArray.Length; i++)
-//         Console.Write(Math.Round(inArray[i], 2 )+"; ");
+//         Console.Write(Math.Round(inArray[i], 2 )+"; "); 
 //     }
 // double MaxMinusMin (double[] array)
 //     {
